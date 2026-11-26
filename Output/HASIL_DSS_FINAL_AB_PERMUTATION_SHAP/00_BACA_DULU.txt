@@ -1,0 +1,7 @@
+DSS DESA WISATA FINAL — BATASAN AKADEMIK
+Label JADESTA belum diverifikasi; kelas 0 = di luar benchmark saja.
+Model A: LR+TFIDF; Model B: RF+numeric+TFIDF; kedua probabilitas dikalibrasi sigmoid dari TRAIN saja.
+Threshold diperoleh dari OOF TRAIN; holdout lama telah ditinjau pada eksperimen terdahulu.
+Skor semua desa berasal dari fit deployment pada semua data: in-sample, bukan validasi eksternal.
+Permutasi SHAP menjelaskan skor yang sama; kontribusi tidak kausal.
+Laporan artikel belum dapat disebut final sampai verifikasi label dan validasi independen.

@@ -1,0 +1,80 @@
+{
+  "data_total": 1336,
+  "class_counts": {
+    "0": 987,
+    "1": 315,
+    "2": 34
+  },
+  "label_status": "BELUM terverifikasi JADESTA; label kelas 0 = di luar benchmark",
+  "random_state": 42,
+  "fast_mode": false,
+  "cv_folds": 5,
+  "split": "stratified 80:20; threshold/model selection from training folds only",
+  "model_A": "Logistic Regression",
+  "model_B": "Random Forest",
+  "threshold_A": 0.43999999999999995,
+  "threshold_B": 0.29,
+  "tfidf": {
+    "ngram_range": [
+      1,
+      2
+    ],
+    "max_features": 3000,
+    "min_df": 2,
+    "max_df": 0.95
+  },
+  "structured_features": [
+    "description_length",
+    "num_facilities",
+    "num_attractions",
+    "num_homestay",
+    "num_tour_packages",
+    "num_souvenirs",
+    "has_phone",
+    "has_instagram",
+    "has_facebook",
+    "has_email",
+    "has_website",
+    "has_twitter"
+  ],
+  "score": "P(A: Maju/Mandiri|X) * P(B: Mandiri|A,X) * 100; descriptive/proxy only",
+  "threshold_readiness_levels": "0-20-40-60-80-100 heuristic and unvalidated",
+  "holdout_metrics": {
+    "accuracy": 0.6604477611940298,
+    "balanced_accuracy": 0.7142857142857143,
+    "macro_f1": 0.7101260321599305,
+    "weighted_f1": 0.6835801436105003,
+    "mandiri_precision": 1.0,
+    "mandiri_recall": 0.8571428571428571,
+    "mandiri_f1": 0.9230769230769231,
+    "n_test_mandiri": 7.0
+  },
+  "holdout_mandiri_recall_exact_95_ci": [
+    0.4212768029568048,
+    0.9963897031380994
+  ],
+  "shap": {
+    "mode": "deployment",
+    "target": "two-stage P(Mandiri) score (same model)",
+    "background_counts": [
+      10,
+      6,
+      4
+    ],
+    "explained_counts": [
+      12,
+      9,
+      6
+    ],
+    "max_evals": 54,
+    "feature_units": "12 structured + 1 grouped whole-text TF-IDF",
+    "global_weighting": "observed class prevalence"
+  },
+  "versions": {
+    "python": "3.13.18",
+    "scikit_learn": "1.6.1",
+    "shap": "0.54.1",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6"
+  }
+}

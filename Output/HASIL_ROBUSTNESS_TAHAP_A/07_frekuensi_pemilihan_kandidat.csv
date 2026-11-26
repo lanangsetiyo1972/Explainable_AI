@@ -1,0 +1,3 @@
+selected_model,selected_ablation,jumlah_outer_fold
+Logistic Regression,tfidf_only,9
+Logistic Regression,non_digital_plus_tfidf,1

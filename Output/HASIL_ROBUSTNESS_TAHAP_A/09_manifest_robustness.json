@@ -1,0 +1,57 @@
+{
+  "pipeline": "Stage A robustness on train only",
+  "n_total": 1336,
+  "n_train": 1068,
+  "holdout_locked": 268,
+  "stageA_train_positive": 279,
+  "stageA_train_negative": 789,
+  "screening_models": [
+    "Logistic Regression",
+    "Calibrated Linear SVM",
+    "Random Forest"
+  ],
+  "ablations": [
+    "structured_only",
+    "tfidf_only",
+    "structured_plus_tfidf",
+    "non_digital_plus_tfidf"
+  ],
+  "outer_folds": 5,
+  "outer_repeats": 2,
+  "inner_folds": 3,
+  "bootstrap_n": 1500,
+  "fast_mode": false,
+  "final_candidate": {
+    "model": "Logistic Regression",
+    "ablation": "tfidf_only",
+    "threshold_train_oof": 0.4,
+    "data_train_count": 1068,
+    "data_holdout_count_UNTOUCHED": 268,
+    "positive_proxy_train": 279,
+    "model_score": "P(keanggotaan benchmark Maju+Mandiri sementara)",
+    "selection": "3-fold inner CV mean average precision, tie by balanced accuracy",
+    "threshold": "optimal F1 on out-of-fold train only",
+    "status_label_JADESTA": "BELUM DIVERIFIKASI",
+    "holdout_protocol": "Do NOT reuse previously inspected test to claim new unbiased performance",
+    "uses_12_numeric_and_tfidf": false,
+    "feature_columns": [
+      "description_length",
+      "num_facilities",
+      "num_attractions",
+      "num_homestay",
+      "num_tour_packages",
+      "num_souvenirs",
+      "has_phone",
+      "has_instagram",
+      "has_facebook",
+      "has_email",
+      "has_website",
+      "has_twitter",
+      "combined_text_model"
+    ],
+    "seed": 42,
+    "scikit_learn": "1.6.1"
+  },
+  "limitation": "Proxy labels, missingness shift, previous holdout already inspected",
+  "shap": "Tidak diulang: SHAP harus dijalankan setelah keputusan model A final bersama model B."
+}

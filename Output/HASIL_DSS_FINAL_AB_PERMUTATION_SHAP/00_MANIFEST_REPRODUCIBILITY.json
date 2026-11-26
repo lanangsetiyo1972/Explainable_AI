@@ -1,0 +1,53 @@
+{
+  "pipeline": "DSS benchmark hierarki A x B terkalibrasi + Permutation SHAP",
+  "data_n": 1336,
+  "distribusi": {
+    "0": 987,
+    "1": 315,
+    "2": 34
+  },
+  "labels_ja_desta": "SELURUHNYA BELUM TERVERIFIKASI",
+  "label_0": "Tidak tercantum pada file benchmark, BUKAN status resmi Rintisan/Berkembang",
+  "model_A": "Logistic Regression (balanced) + TF-IDF only",
+  "model_B": "Random Forest (balanced_subsample) + 12 structured + TF-IDF",
+  "reference_A_threshold_uncalibrated": 0.44,
+  "reference_robustness_zip_observed": "FAST_MODE=true, outer3x1, inner2 (pilot); bukan full nested",
+  "calibration": "sigmoid",
+  "cv_inner": 3,
+  "threshold_A_calibrated_train_oof": 0.26,
+  "threshold_B_calibrated_train_oof": 0.31,
+  "threshold_source": "OOF calibrated on locked TRAIN, never reused HOLDOUT",
+  "nested_hierarchical_internal_enabled": true,
+  "holdout_diagnostic": "Already seen in earlier experiments; not independently evaluative",
+  "deployed_model": "refit/calibrated on all 1336 data for in-sample DSS scores",
+  "score": "pA(Maju+Mandiri proxy) * pB(Mandiri | advanced proxy), in [0,1]",
+  "score_interpretation": "benchmark membership similarity, not official readiness probability",
+  "readiness_bands": "heuristic 0/20/40/60/80/100; NOT empirically validated",
+  "shap": {
+    "applied": true,
+    "explainer": "PermutationExplainer on deployed A×B score",
+    "units": "12 numeric + 1 whole-text group",
+    "background_counts": [
+      8,
+      6,
+      4
+    ],
+    "explained_counts": [
+      8,
+      6,
+      4
+    ],
+    "permutations": 2
+  },
+  "split_sha_train": "5aa6a86e2c0aabe3210a076fdfde29d11a3d24b1985bc73c40daef5f0c3d8c53",
+  "split_sha_test": "bea3c189273b5a72354360a3810b90b17dcbdca102a7f2b2acad68f82a140325",
+  "fast_mode": false,
+  "seed": 42,
+  "versions": {
+    "python": "3.13.18",
+    "scikit_learn": "1.6.1",
+    "pandas": "2.2.3",
+    "numpy": "2.4.6",
+    "shap": "0.54.1"
+  }
+}

@@ -1,0 +1,7 @@
+﻿tahap,model,PR_AUC_mean,ROC_AUC_mean,F1_mean_threshold_0_5,BA_mean_threshold_0_5,sifat
+A,Logistic Regression,0.5169712794022717,0.6980252667729671,0.4672444077214581,0.6392943292857435,diagnostik training; model A/B dikunci sebelum pengujian
+A,Calibrated Linear SVM,0.4738617545651132,0.6728811480436648,0.0858085808580858,0.5207626367935456,diagnostik training; model A/B dikunci sebelum pengujian
+A,Random Forest,0.4371531971169286,0.6515529389318179,0.23718538282984478,0.5562574103601947,diagnostik training; model A/B dikunci sebelum pengujian
+B,Logistic Regression,0.7271750112027889,0.9303350970017638,0.5667335562987738,0.8373015873015873,diagnostik training; model A/B dikunci sebelum pengujian
+B,Calibrated Linear SVM,0.8538812809074248,0.9576719576719577,0.70989010989011,0.7777777777777777,diagnostik training; model A/B dikunci sebelum pengujian
+B,Random Forest,0.8993372369396582,0.9651675485008818,0.8470588235294118,0.8703703703703702,diagnostik training; model A/B dikunci sebelum pengujian

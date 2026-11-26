@@ -1,0 +1,3 @@
+Stage,Training documents,Actual vocabulary size,Unigram features,Bigram features,Structured features,Total feature dimensionality,Non-zero elements,Density (%),Sparsity (%),Empty input documents,Zero TF-IDF vectors
+Stage A,1068,3000,1809,1191,0,3000,147501,4.603651685393259,95.39634831460674,0,0
+Stage B,279,3000,1774,1226,12,3012,45469,5.432377538829152,94.56762246117086,0,0

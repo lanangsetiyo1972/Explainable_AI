@@ -1,0 +1,269 @@
+﻿matching_key,Desa Wisata,Kabupaten,label_3kelas,prediksi,p_tingkat_lanjut,p_mandiri_kondisional,p_mandiri_gabungan
+makmur jaya | bangli,Desa Wisata Makmur Jaya,Kabupaten Bangli,0,0,0.17002956624468712,0.022286268376053426,0.003789324545193052
+tanjung batu | berau,Desa Wisata Tanjung Batu,Kabupaten Berau,0,0,0.146181594043184,0.03648211107257709,0.005333013150649812
+sarongge | cianjur,Desa Wisata Sarongge,Kabupaten Cianjur,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+mekarsari | ciamis,Desa Wisata Mekarsari,Kabupaten Ciamis,0,0,0.13029552149202117,0.04210030822367406,0.005485481614978439
+kampoeng dolanan jamus kauman | magelang,Desa Wisata Kampoeng Dolanan Jamus Kauman,Kabupaten Magelang,0,0,0.11631985849078198,0.024138572518209528,0.0028077953394876113
+mas | gianyar,Desa Wisata Mas,Kabupaten Gianyar,0,1,0.2720469621337118,0.018603600811956948,0.005061053085641142
+sidoakur jethak | sleman,Desa Wisata Sidoakur Jethak,Kabupaten Sleman,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+ramea | pandeglang,Desa Wisata Ramea,Kabupaten Pandeglang,0,0,0.09263254047490632,0.020747978970101933,0.0019219380017204725
+limbo wantiro | baubau,Desa Wisata Limbo Wantiro,Kota Baubau,0,0,0.25975046897450876,0.013790575604158294,0.0035821084806085366
+gunungketur pakualaman | yogyakarta,Desa Wisata Gunungketur (Pakualaman),Kota Yogyakarta,0,1,0.32940593765365084,0.024098603944145657,0.007938223228365269
+ekang | bintan,Desa Wisata Ekang,Kabupaten Bintan,0,1,0.6064479226547378,0.08661983865949473,0.05253042121573912
+badar indah | acehtenggara,Desa Wisata Badar Indah,Kabupaten Aceh Tenggara,0,0,0.15621857551702079,0.026260800481300233,0.004102424843125416
+alahan nan tigo | dharmasraya,Desa Wisata Alahan Nan Tigo,Kabupaten Dharmasraya,0,1,0.28432578401481073,0.013405460215345263,0.0038115179858073957
+colol | manggaraitimur,Desa Wisata Colol,Kabupaten Manggarai Timur,0,0,0.21182727974070384,0.03507764074203857,0.007430401218107714
+ngawun | tuban,Desa Wisata Ngawun,Kabupaten Tuban,0,1,0.44291746563943196,0.025915283355365627,0.011478331625086298
+paninggahan | solok,Desa Wisata Paninggahan,Kabupaten Solok,0,0,0.20499768185367429,0.016890876896769002,0.003462590608313429
+lebetawi | tual,Desa Wisata Lebetawi,Kota Tual,0,0,0.17345061709872836,0.039351578524814995,0.006825555578938228
+toyomarto | malang,Desa Wisata Toyomarto,Kabupaten Malang,0,1,0.4785670198729397,0.011334166891489236,0.005424158472002545
+pandanrejo | purworejo,Desa Wisata Pandanrejo,Kabupaten Purworejo,0,1,0.2679806339550916,0.012538193289898808,0.0033599929864785577
+ketambe | acehtenggara,Desa Wisata Ketambe,Kabupaten Aceh Tenggara,0,1,0.30314240448003854,0.018366045974069985,0.005567527337370507
+religi family rabani | bandung,Desa Wisata Religi Family Rabani,Kota Bandung,0,1,0.2649629707420047,0.02992538032747875,0.007929117672153116
+bebesen kampung kerawang | acehtengah,Desa Wisata Bebesen Kampung Kerawang,Kabupaten Aceh Tengah,0,0,0.16442333535183648,0.03737306923476275,0.006145004695914799
+ekasari | jembrana,Desa Wisata Ekasari,Kabupaten Jembrana,0,1,0.27493071440773376,0.02928681629721874,0.008051845327322407
+tebing tinggi | dharmasraya,Desa Wisata Tebing Tinggi,Kabupaten Dharmasraya,0,1,0.2826845473258566,0.04252117070998224,0.012020077893916802
+mirat | majalengka,Desa Wisata Mirat,Kabupaten Majalengka,0,1,0.444457933825736,0.03648315549461146,0.016215227910578056
+letman | malukutenggara,Desa Wisata Letman,Kabupaten Maluku Tenggara,0,0,0.14554908669731517,0.019587300630172447,0.0028509137175873455
+ohoi wulurat | malukutenggara,Desa Wisata Ohoi Wulurat,Kabupaten Maluku Tenggara,0,0,0.15286587252522574,0.032106320658573495,0.004907960721047518
+letvuan paradise | malukutenggara,Desa Wisata Letvuan Paradise,Kabupaten Maluku Tenggara,0,0,0.24429201397492858,0.020833566985102043,0.005089474037072159
+guranteng | tasikmalaya,Desa Wisata Guranteng,Kabupaten Tasikmalaya,0,1,0.3475885716488767,0.04302119945565957,0.01495367726941414
+samberembe | sleman,Desa Wisata Samberembe,Kabupaten Sleman,0,1,0.4530493091651257,0.026374396474825316,0.011948902102566735
+mororejo | kendal,Desa Wisata Mororejo,Kabupaten Kendal,0,1,0.29522690398560864,0.011905526047779162,0.0035148315954058613
+mulyorejo | malang,Desa Wisata Mulyorejo,Kabupaten Malang,0,0,0.18257621433663065,0.03151609596851999,0.0057540894926023265
+medanglayang | ciamis,Desa Wisata Medanglayang,Kabupaten Ciamis,0,0,0.13397222263013667,0.038924100274151836,0.005214748227606434
+hakim bale bujang | acehtengah,Desa Wisata Hakim Bale Bujang,Kabupaten Aceh Tengah,0,1,0.26363730397894863,0.013633325101992716,0.0035942530741578846
+widosari | kulonprogo,Desa Wisata Widosari,Kabupaten Kulonprogo,0,1,0.47678956241192116,0.011924916424152507,0.005685675683670405
+ohoi yamtimur | malukutenggara,Desa Wisata Ohoi Yamtimur,Kabupaten Maluku Tenggara,0,0,0.1740886717829687,0.027467013966766773,0.004781695979318677
+air saga | belitung,Desa Wisata Air Saga,Kabupaten Belitung,0,0,0.19677119876887658,0.013015447916888698,0.002561065289120067
+agroeduwisata bulalove hungayonaa | boalemo,Desa Wisata Agroeduwisata Bulalove Hungayonaa,Kabupaten Boalemo,0,1,0.3406630595404329,0.02839488235566533,0.009673087498571606
+sukaraja | ciamis,Desa Wisata Sukaraja,Kabupaten Ciamis,0,0,0.1686285072835665,0.029350720681739512,0.004949368216258637
+seribuguabanuarea | humbanghasundutan,Desa Wisata Seribuguabanuarea,Kabupaten Humbang Hasundutan,0,0,0.2383529442286337,0.03054911597706543,0.0072814717367155396
+lekuk 50 tumbi lempur | kerinci,Desa Wisata Lekuk 50 Tumbi Lempur,Kabupaten Kerinci,0,1,0.3571844241377547,0.02165499395781842,0.007734826546529929
+rumah domes | sleman,Desa Wisata Rumah Domes,Kabupaten Sleman,0,1,0.378065308138048,0.03133445252953229,0.011846469450914663
+parikesit | wonosobo,Desa Wisata Parikesit,Kabupaten Wonosobo,0,0,0.19189104280754932,0.01727675165398157,0.003315253891209576
+jikumerasa | buru,Desa Wisata Jikumerasa,Kabupaten Buru,0,1,0.2976488168318975,0.013471418294251586,0.004009751716331563
+bongkasa pertiwi | badung,Desa Wisata Bongkasa Pertiwi,Kabupaten Badung,0,1,0.39362329889672204,0.014486339289888737,0.005702160660223203
+cimindi | pangandaran,Desa Wisata Cimindi,Kabupaten Pangandaran,0,1,0.30075308156933067,0.012105363179366882,0.0036407252797105
+giri | gresik,Desa Wisata Giri,Kabupaten Gresik,0,0,0.25727657043462865,0.027758017845532095,0.007141487633361717
+sermo | kulonprogo,Desa Wisata Sermo,Kabupaten Kulonprogo,0,1,0.44265969670812727,0.042085932077392835,0.018629745929057556
+dewa bronto | yogyakarta,Desa Wisata Dewa Bronto,Kota Yogyakarta,0,1,0.3105659486177701,0.016188060073536775,0.005027460233019397
+bintang hulu | dairi,Desa Wisata Bintang Hulu,Kabupaten Dairi,0,0,0.15973975673150811,0.011490059267429251,0.0018354192722097589
+temanggung nepal van java | magelang,Desa Wisata Temanggung Nepal Van Java,Kabupaten Magelang,0,0,0.2083602538499819,0.030202909668741517,0.006293085925587055
+bukit layang | musirawasutara,Desa Wisata BUKIT LAYANG,Kabupaten Musi Rawas Utara,0,0,0.18900960185944857,0.026918608819333657,0.005087875535552495
+koto ranah | rokanhulu,Desa Wisata Koto Ranah,Kabupaten Rokan Hulu,0,0,0.18204899802974706,0.02680994523161125,0.004880723666647223
+patihan goa cemara | bantul,Desa Wisata Patihan Goa Cemara,Kabupaten Bantul,0,1,0.4349647232900474,0.018496077205029673,0.008045141103437084
+bukik kociak | limapuluh,Desa Wisata Bukik Kociak,Kabupaten Lima Puluh Kota,0,0,0.1893257534939283,0.059073679348939014,0.011184168854396591
+religi bubohu | gorontalo,Desa Wisata Religi Bubohu,Kabupaten Gorontalo,0,1,0.5691279399505643,0.024319638262013703,0.013840985624402781
+ara | bulukumba,Desa Wisata Ara,Kabupaten Bulukumba,0,0,0.21645247430442374,0.02159964600379762,0.004675296821621653
+kareba biringala | gowa,Desa Wisata Kareba Biringala,Kabupaten Gowa,0,0,0.2405465524819629,0.0535911125875597,0.012891157376610212
+pardede onan | tobasamosir,Desa Wisata Pardede Onan,Kabupaten Toba Samosir,0,0,0.23345212683091052,0.01887584674059108,0.004406606567325297
+cilember | bogor,Desa Wisata Cilember,Kabupaten Bogor,0,1,0.3360459314939405,0.014555189817654158,0.00489121232034471
+lendang belo | lomboktimur,Desa Wisata Lendang Belo,Kabupaten Lombok Timur,0,1,0.26140309432610914,0.02984357009675867,0.007801201569030857
+nagari sulit air | solok,Desa Wisata Nagari Sulit Air,Kabupaten Solok,0,0,0.2261831636117412,0.03628669720294859,0.008207439970384232
+candi bahal portibi | padanglawasutara,Desa Wisata Candi Bahal Portibi,Kabupaten Padang Lawas Utara,0,0,0.16470457778420958,0.028378595784016174,0.004674084636715134
+dullah laut | tual,Desa Wisata Dullah Laut,Kota Tual,0,0,0.1940573772193266,0.03866410761190631,0.00750305531569234
+lubuak batingkok | limapuluh,Desa Wisata Lubuak Batingkok,Kabupaten Lima Puluh Kota,0,1,0.3162811319628219,0.025699828544263226,0.008128370863230015
+condet | jakartatimur,Desa Wisata Condet,Kota Jakarta Timur,0,1,0.2660300233162105,0.08408610319386382,0.022369427993232875
+pantai indah peunaga pasi | acehbarat,Desa Wisata PANTAI INDAH PEUNAGA PASI,Kabupaten Aceh Barat,0,0,0.1949461410390203,0.01192528754609043,0.002324788787891017
+tukak | bangkaselatan,Desa Wisata Tukak,Kabupaten Bangka Selatan,0,1,0.27239554243464614,0.02755773948652612,0.007506605395704949
+bandar agung | empatlawang,Desa Wisata Bandar Agung,Kabupaten Empat Lawang,0,0,0.20149879671221116,0.03939052054042564,0.007937142490763403
+sirnajaya | bandungbarat,Desa Wisata Sirnajaya,Kabupaten Bandung Barat,0,0,0.18779630352121499,0.02863014965174514,0.005376636273856938
+tri rukun | boalemo,Desa Wisata Tri Rukun,Kabupaten Boalemo,0,1,0.27622866099407206,0.05731896239439821,0.01583314023177419
+perlang | bangkatengah,Desa Wisata Perlang,Kabupaten Bangka Tengah,0,0,0.22689324826721102,0.013008911597210848,0.0029516342087121616
+siombob | padanglawasutara,Desa Wisata Siombob,Kabupaten Padang Lawas Utara,0,0,0.11458186609102733,0.043567139265590395,0.004992004117299017
+bukulimau | belitungtimur,Desa Wisata Bukulimau,Kabupaten Belitung Timur,0,0,0.17919394021382276,0.013441271945930663,0.0024085944814768324
+cihanjuang rahayu | bandungbarat,Desa Wisata Cihanjuang Rahayu,Kabupaten Bandung Barat,0,0,0.24105449631887432,0.0292739181453418,0.007056609593805324
+detosoko barat | ende,Desa Wisata Detosoko Barat,Kabupaten Ende,0,1,0.33565990779893323,0.018410572503047187,0.006179691068898394
+lewokluok | florestimur,Desa Wisata Lewokluok,Kabupaten Flores Timur,0,0,0.16796687720107265,0.024791171875176533,0.004164095722028463
+tritirodesawisata | bulukumba,Desa Wisata Tritirodesawisata,Kabupaten Bulukumba,0,0,0.18137815474903055,0.02841347674844603,0.0051535839826376256
+koto tuo | kampar,Desa Wisata Koto Tuo,Kabupaten Kampar,0,0,0.2323027851242647,0.02274939375267156,0.0052847475286341514
+kampung bono | pelalawan,Desa Wisata Kampung Bono,Kabupaten Pelalawan,0,0,0.20287712733922195,0.012498200896366796,0.002535599094763384
+balai kurai taji | pariaman,Desa Wisata Balai Kurai Taji,Kota Pariaman,0,1,0.41726842920515544,0.030547411296662236,0.012746470328042072
+salo | kampar,Desa Wisata Salo,Kabupaten Kampar,0,0,0.1832840103164396,0.03238130751799761,0.005934975901188477
+hargotirto segajih live in education | kulonprogo,Desa Wisata HARGOTIRTO (Segajih live in & education),Kabupaten Kulonprogo,0,1,0.36992949475418685,0.034358204114673996,0.012710113088802575
+danau siombak | medan,Desa Wisata Danau Siombak,Kota Medan,0,1,0.3980744716649151,0.029339491407548334,0.01167930254097712
+gunung masigit | bandungbarat,Desa Wisata Gunung Masigit,Kabupaten Bandung Barat,0,1,0.41148908169706916,0.059287213775186885,0.02439604115272948
+pidara lino | mamasa,Desa Wisata Pidara Lino,Kabupaten Mamasa,0,0,0.18319505323024976,0.019911530161687837,0.003647693827866127
+pantai kei kei | kolaka,Desa Wisata Pantai Kei-kei,Kabupaten Kolaka,0,0,0.10647284337498188,0.08012242007557058,0.00853086188353073
+tete b | tojounauna,Desa Wisata Tete B,Kabupaten Tojo Una-una,0,0,0.24354138886067245,0.020272253380270718,0.004937132743566592
+sumberoto | malang,Desa Wisata Sumberoto,Kabupaten Malang,0,0,0.2432091879206312,0.013105969464979527,0.0031874921904902604
+bawomataluo | niasselatan,Desa Wisata Bawomataluo,Kabupaten Nias Selatan,0,0,0.13818837997305247,0.0352763855398732,0.004874786569059892
+gampong lampulo | bandaaceh,Desa Wisata Gampong Lampulo,Kota Banda Aceh,0,1,0.3279925128856282,0.06311506709728824,0.020701269458184603
+luk panenteng | banggaikepulauan,Desa Wisata Luk Panenteng,Kabupaten Banggai Kepulauan,0,0,0.23611087391898522,0.022603905570419153,0.005337027898213885
+silalahi ii | dairi,Desa Wisata Silalahi II,Kabupaten Dairi,0,1,0.32942200632806456,0.04392178634213383,0.01446880297833831
+mina mangrove | pati,Desa Wisata Mina Mangrove,Kabupaten Pati,0,1,0.48364808689717803,0.026405914739232494,0.012771170146399792
+talang mulya | pesawaran,Desa Wisata Talang Mulya,Kabupaten Pesawaran,0,1,0.3438934602047659,0.045500679160744684,0.015647385998255374
+aik bual | lomboktengah,Desa Wisata Aik Bual,Kabupaten Lombok Tengah,0,1,0.3874458879775473,0.04648433331329945,0.01801016379761559
+hilinawalo batusalawa | niasselatan,Desa Wisata Hilinawalo Batusalawa,Kabupaten Nias Selatan,0,0,0.2484131262066617,0.018666300742798802,0.004636954122232382
+taraju | tasikmalaya,Desa Wisata Taraju,Kabupaten Tasikmalaya,0,1,0.3180514378874239,0.01339360894423322,0.004259856583215238
+bambu gintangan | banyuwangi,Desa Wisata Bambu Gintangan,Kabupaten Banyuwangi,0,1,0.3921348993474463,0.03372751048464694,0.013225733929136969
+sepahat | bengkalis,Desa Wisata Sepahat,Kabupaten Bengkalis,0,1,0.4284512335291199,0.021405488840816583,0.009171208098141675
+lamapu | luwutimur,Desa Wisata Lamapu,Kabupaten Luwu Timur,0,0,0.12535132079649772,0.06070518030236347,0.007609474530090798
+latung | ngada,Desa Wisata Latung,Kabupaten Ngada,0,0,0.22858417708570675,0.01743824308694814,0.003986106445850555
+latimojong | enrekang,Desa Wisata Latimojong,Kabupaten Enrekang,0,1,0.2884438596352381,0.033102080802197086,0.009548091948543246
+pulau papan | tojounauna,Desa Wisata Pulau Papan,Kabupaten Tojo Una-una,0,1,0.27384228614340733,0.01847714692290052,0.005059824154774703
+lalan | sijunjung,Desa Wisata Lalan,Kabupaten Sijunjung,0,0,0.25243262182708254,0.021297592313036587,0.005376207066184145
+petaling | belitung,Desa Wisata Petaling,Kabupaten Belitung,0,0,0.2520998900839551,0.027825979969821907,0.00701492649187044
+pantai pasir besi | bima,Desa Wisata Pantai Pasir Besi,Kabupaten Bima,0,1,0.2730129236900953,0.03309042474938847,0.009034113606977635
+sulit air | solok,Desa Wisata Sulit Air,Kabupaten Solok,0,1,0.26974508594864827,0.014637273331419093,0.0039483325528375
+pulau seliu | belitung,Desa Wisata Pulau Seliu,Kabupaten Belitung,0,1,0.2943002162055115,0.025816528870144444,0.007597810028159339
+bone baru | banggailaut,Desa Wisata Bone Baru,Kabupaten Banggai Laut,0,1,0.3264642113462604,0.013679612406463726,0.0044659038757987
+matras | bangka,Desa Wisata Matras,Kabupaten Bangka,0,0,0.10748796049555082,0.021455130778655563,0.0023061682495630056
+paisu matube | banggailaut,Desa Wisata Paisu Matube,Kabupaten Banggai Laut,0,0,0.21827905934620126,0.01582480710121463,0.0034542240083882156
+gerokgak | buleleng,Desa Wisata Gerokgak,Kabupaten Buleleng,0,0,0.22101819253885324,0.028748110234066416,0.006353855362841068
+bengkel | buleleng,Desa Wisata Bengkel,Kabupaten Buleleng,0,0,0.2260533810918591,0.03651320373857326,0.008253933159600395
+pengulon | buleleng,Desa Wisata Pengulon,Kabupaten Buleleng,0,0,0.20167034578040188,0.025154693393219987,0.005072955714610665
+hawu pabeasan | bandungbarat,Desa Wisata Hawu Pabeasan,Kabupaten Bandung Barat,0,1,0.33310294125252726,0.027424436156417393,0.009135160345894787
+payung payung | berau,Desa Wisata Payung-payung,Kabupaten Berau,0,0,0.2565595586144079,0.013467307951972164,0.0034551665838822836
+bunder | gunungkidul,Desa Wisata Bunder,Kabupaten Gunungkidul,0,1,0.4290492384287387,0.020980910915015666,0.009001843849628682
+pantai pengubaian | kaur,Desa Wisata Pantai Pengubaian,Kabupaten Kaur,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+lampia | luwutimur,Desa Wisata Lampia,Kabupaten Luwu Timur,0,0,0.19335405453830987,0.024012984817806098,0.004643007976089687
+segitiga emas | luwutimur,Desa Wisata SEGITIGA EMAS,Kabupaten Luwu Timur,0,0,0.2058314556317756,0.02173935842851175,0.004474643789841483
+seputuk | tanatidung,Desa Wisata Seputuk,Kabupaten Tana Tidung,0,0,0.2243642685799144,0.018651750759900627,0.004184786416979966
+jagaraga | buleleng,Desa Wisata Jagaraga,Kabupaten Buleleng,0,0,0.22944511922393837,0.019042381212401833,0.004369181427587222
+jepang | kudus,Desa Wisata Jepang,Kabupaten Kudus,0,0,0.21798319498784172,0.02038853881688614,0.004444358832438471
+pantai lampu | bangkaselatan,Desa Wisata Pantai Lampu,Kabupaten Bangka Selatan,0,0,0.2239759387710085,0.03894638614515855,0.008723053398600085
+kelapan bahari | bangkaselatan,Desa Wisata Kelapan Bahari,Kabupaten Bangka Selatan,0,0,0.2290671034103352,0.022120706065031248,0.005067126063708142
+tanjung tengah | penajampaserutara,Desa Wisata Tanjung Tengah,Kabupaten Penajam Paser Utara,0,0,0.23732955569542336,0.01913257054797006,0.004540724467461077
+pam | rajaampat,Desa Wisata Pam,Kabupaten Raja Ampat,0,0,0.20313202816269324,0.01813207841761223,0.0036832058637745694
+onje | purbalingga,Desa Wisata Onje,Kabupaten Purbalingga,0,0,0.21179490222697658,0.05373195978111226,0.011380155168304509
+air terjun putri malu | waykanan,Desa Wisata Air Terjun Putri Malu,Kabupaten Way Kanan,0,0,0.06069776999190413,0.045975371234513084,0.0027906025084848806
+tanjung balam | kampar,Desa Wisata Tanjung Balam,Kabupaten Kampar,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+teritip | balikpapan,Desa Wisata Teritip,Kota Balikpapan,0,1,0.33609163301887524,0.033178326082047925,0.011150957793748228
+tondasi | munabarat,Desa Wisata Tondasi,Kabupaten Muna Barat,0,0,0.17164599549887272,0.037859605973556074,0.0064984497565261
+danau siarak | musibanyuasin,Desa Wisata Danau Siarak,Kabupaten Musi Banyuasin,0,0,0.15316371660031403,0.02792298114469116,0.004276787570681389
+pantai mandiri | pesisirbarat,Desa Wisata Pantai Mandiri,Kabupaten Pesisir Barat,0,0,0.2287850838472889,0.02983828669279497,0.006826554922870542
+alue jang | acehjaya,Desa Wisata Alue Jang,Kabupaten Aceh Jaya,0,0,0.1730256224309871,0.02287165422426997,0.003957382208180627
+balleangin | pangkajenedankepulauan,Desa Wisata Balleangin,Kabupaten Pangkajene Dan Kepulauan,0,1,0.3670569884282122,0.01576893747853654,0.005788098701584389
+kampoeng talaga bukaka | kotabunan,Desa Wisata Kampoeng Talaga Bukaka,Kotabunan,0,1,0.29903295887462206,0.027357697632204813,0.008180853270955447
+patai suku hawa pasuha | baritotimur,Desa Wisata Patai Suku Hawa (pasuha),Kabupaten Barito Timur,0,0,0.1569107622962205,0.017300408791039834,0.002714620331438295
+pantai lagunci | butonselatan,Desa Wisata Pantai Lagunci,Kabupaten Buton Selatan,0,0,0.13190125078671786,0.023719408028779112,0.0031286195869164824
+danau koto salak tapian siek | dharmasraya,Desa Wisata Danau Koto Salak Tapian Siek,Kabupaten Dharmasraya,0,0,0.22103893491858714,0.02572916997986199,0.005687148328687981
+selatbaru | bengkalis,Desa Wisata Selatbaru,Kabupaten Bengkalis,0,1,0.3046913867853549,0.031708012943747386,0.009661158436038375
+ilmarang | malukubaratdaya,Desa Wisata Ilmarang,Kabupaten Maluku Barat Daya,0,0,0.20378568002530054,0.02444761636977348,0.004982074126911958
+bukit embun desa semoi dua | penajampaserutara,Desa Wisata Bukit Embun Desa Semoi Dua,Kabupaten Penajam Paser Utara,0,0,0.08781608734279935,0.03381647900861564,0.0029696308742465315
+rumahkay | serambagianbarat,Desa Wisata Rumahkay,Kabupaten Seram Bagian Barat,0,0,0.19078397175639025,0.015685754452719382,0.0029925905344852875
+sawakete | niasutara,Desa Wisata Sawakete,Kabupaten Nias Utara,0,0,0.16008567183881803,0.0253372781550396,0.004056135196016522
+karawa | pinrang,Desa Wisata Karawa,Kabupaten Pinrang,0,0,0.23501639858627432,0.02163774469129071,0.005085224830876418
+saukabu | rajaampat,Desa Wisata Saukabu,Kabupaten Raja Ampat,0,0,0.17342101673762708,0.015774450433660183,0.0027356212326826515
+pulau lutungan | tolitoli,Desa Wisata Pulau Lutungan,Kabupaten Toli-toli,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+pulau pandan | tolitoli,Desa Wisata Pulau Pandan,Kabupaten Toli-toli,0,0,0.24064687713483304,0.02662718891882282,0.006407749860193943
+kampung baselang bakung jaya | jambi,Desa Wisata Kampung Baselang Bakung Jaya,Kota Jambi,0,1,0.3254265300619937,0.04234496273356539,0.013780174287988618
+kapit | bangkabarat,Desa Wisata Kapit,Kabupaten Bangka Barat,0,0,0.158235959949355,0.024010616226554152,0.003799342907584356
+harimau garang | bangka,Desa Wisata Harimau Garang,Kabupaten Bangka,0,0,0.2119129043079514,0.02539882351945068,0.005382338458011898
+mosolo | konawekepulauan,Desa Wisata Mosolo,Kabupaten Konawe Kepulauan,0,0,0.18963859214659595,0.01668268718887575,0.0031636813117204496
+pulau lanjukan | makassar,Desa Wisata Pulau Lanjukan,Kota Makassar,0,1,0.3414441354615451,0.027489174628153156,0.009386017465461196
+ganggo mudiak | pasaman,Desa Wisata Ganggo Mudiak,Kabupaten Pasaman,0,1,0.26283016409390597,0.015454596865640616,0.004061934230201488
+ogotua | tolitoli,Desa Wisata Ogotua,Kabupaten Toli-toli,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+tema tana | sumbabaratdaya,Desa Wisata Tema Tana,Kabupaten Sumba Barat Daya,0,0,0.2505915901361919,0.031133418611841972,0.007801772876317193
+santigi | tolitoli,Desa Wisata Santigi,Kabupaten Toli-toli,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+lhok bubon | acehbarat,Desa Wisata Lhok Bubon,Kabupaten Aceh Barat,0,0,0.13019585538890996,0.030899995167617492,0.004023051302361144
+souvenir | banyuwangi,Desa Wisata Souvenir,Kabupaten Banyuwangi,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+bumi mataram pleret | bantul,Desa Wisata Bumi Mataram Pleret,Kabupaten Bantul,0,1,0.4245572239290993,0.013377299335214116,0.0056794290694270905
+pantai laguna | kaur,Desa Wisata Pantai Laguna,Kabupaten Kaur,0,0,0.229749221340015,0.03465383926174046,0.007961692586826911
+pantai kayu angin | kolaka,Desa Wisata Pantai Kayu Angin,Kabupaten Kolaka,0,1,0.3097903716851418,0.025345596150795416,0.007851821652136411
+kampung ratu | malang,Desa Wisata Kampung Ratu,Kabupaten Malang,0,0,0.2362092919594553,0.024254657126258277,0.005729175386512825
+limbasari | purbalingga,Desa Wisata Limbasari,Kabupaten Purbalingga,0,0,0.23838890677868618,0.016557398975099863,0.003947100240772596
+kampwang nagari aie batumbuek | solok,Desa Wisata Kampwang Nagari Aie Batumbuek,Kabupaten Solok,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+aew ragunan | jakartaselatan,Desa Wisata Aew Ragunan,Kota Jakarta Selatan,0,1,0.42333543935972795,0.03106053890635337,0.013149026884671027
+budaya pampang | samarinda,Desa Wisata Budaya Pampang,Kota Samarinda,0,0,0.17225067660462004,0.07283079177257128,0.012545153160475596
+sekerat | kutaitimur,Desa Wisata Sekerat,Kabupaten Kutai Timur,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+pantai indah | kerinci,Desa Wisata Pantai Indah,Kabupaten Kerinci,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+jernih jaya | kerinci,Desa Wisata Jernih Jaya,Kabupaten Kerinci,0,0,0.22409924078144983,0.03545619692773439,0.007945706812502852
+kertagena dajah | pamekasan,Desa Wisata Kertagena Dajah,Kabupaten Pamekasan,0,1,0.3602905365640969,0.10265360250339377,0.03698512152618526
+mampie | polewalimandar,Desa Wisata  MAMPIE,Kabupaten Polewali Mandar,0,1,0.34934678686622384,0.01218029117998425,0.004255145586822504
+bulo | polewalimandar,Desa Wisata Bulo,Kabupaten Polewali Mandar,0,0,0.24796539653551883,0.03496971460059222,0.008671279147669773
+kampung batu dalam | solok,Desa Wisata Kampung Batu Dalam,Kabupaten Solok,0,1,0.36708034974957565,0.014118004467690471,0.00518244201776589
+boe tilla air terang | tojounauna,Desa Wisata Boe Tilla (Air Terang),Kabupaten Tojo Una-una,0,0,0.18211974883029824,0.015915910932345703,0.002898601701404197
+mandalamekar | tasikmalaya,Desa Wisata Mandalamekar,Kabupaten Tasikmalaya,0,1,0.2760950806216837,0.030859161148583076,0.008520062585235574
+rurukan | tomohon,Desa Wisata Rurukan,Kota Tomohon,0,1,0.4337197527834153,0.026770323043701822,0.01161081789244652
+budidaya patin | trenggalek,Desa Wisata Budidaya Patin,Kabupaten Trenggalek,0,1,0.300331035192092,0.021715138581286417,0.006521730049457485
+pulau baguk | acehsingkil,Desa Wisata Pulau Baguk,Kabupaten Aceh Singkil,0,0,0.2588984273720139,0.039060380210350625,0.010112671009012711
+benteng | bogor,Desa Wisata Benteng,Kabupaten Bogor,0,1,0.3583277109350525,0.012351331072332614,0.004425824190149933
+karangbanar | cilacap,Desa Wisata KARANGBANAR,Kabupaten Cilacap,0,1,0.46689219835222556,0.017647647351500307,0.008239548867686809
+goa batu napal licin goa karang nato air terjun sungai kerali | musirawasutara,Desa Wisata Goa batu napal licin /goa karang nato /air terjun sungai kerali,Kabupaten Musi Rawas Utara,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+sawah bengkok desa teja | majalengka,Desa Wisata SAWAH BENGKOK DESA TEJA,Kabupaten Majalengka,0,0,0.1153675330833232,0.041133778345032714,0.004745502534062645
+bahbolon hutabayu | serdangbedagai,Desa Wisata bahbolon hutabayu,Kabupaten Serdang Bedagai,0,1,0.3421389640564085,0.024109696892297444,0.008248866718444658
+eko wisata manggrove sayeung | acehjaya,Desa Wisata EKO WISATA MANGGROVE SAYEUNG,Kabupaten Aceh Jaya,0,0,0.23472303739124054,0.03204083776833243,0.007520722761542965
+sindang panjang | lahat,Desa Wisata  sindang panjang,Kabupaten Lahat,0,1,0.34522613719751427,0.041680781218696124,0.014389295095505164
+tanjung taipa | konaweutara,Desa Wisata Tanjung Taipa,Kabupaten Konawe Utara,0,0,0.23529312022008816,0.01345674121045642,0.003166278627402537
+wisata alam igir kandang | pemalang,Desa Wisata WISATA ALAM IGIR KANDANG,Kabupaten Pemalang,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+paau | banjar,Desa Wisata Paau,Kabupaten Banjar,0,0,0.18432482291263796,0.03157617737089751,0.00582027330214873
+kampung wisata kemumu | bengkuluutara,Desa Wisata KAMPUNG WISATA KEMUMU,Kabupaten Bengkulu Utara,0,1,0.2731309926045163,0.014401060494760138,0.003933375947491523
+haratai | hulusungaiselatan,Desa Wisata haratai,Kabupaten Hulu Sungai Selatan,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+banyu bening | klaten,Desa Wisata Banyu Bening,Kabupaten Klaten,0,0,0.22896423005471703,0.024157707907640547,0.0055312509909596665
+palaes | minahasautara,Desa Wisata  Palaes,Kabupaten Minahasa Utara,0,1,0.3128675646056904,0.02479940551024759,0.007758929605660102
+surawaya | minahasautara,Desa Wisata SURAWAYA,Kabupaten Minahasa Utara,0,0,0.19956346860949728,0.020298832095801193,0.004050905341759877
+rampai rempoah | banyumas,Desa Wisata RAMPAI Rempoah,Kabupaten Banyumas,0,1,0.4277370817512883,0.0144240749583465,0.0061697117296449664
+rawabinong | bekasi,Desa Wisata Desa wisata rawabinong,Kabupaten Bekasi,0,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+dieng kulon | banjarnegara,Desa Wisata Dieng Kulon,Kabupaten Banjarnegara,1,1,0.3614761324439195,0.01204798144443349,0.004355057736289925
+ukm junrejo | batu,Desa Wisata Ukm Junrejo,Kota Batu,1,0,0.1508833442886415,0.02644046140422703,0.003989425241204525
+kampung ekologi temas | batu,Desa Wisata Kampung Ekologi Temas,Kota Batu,1,0,0.14280781353768246,0.025330756979060388,0.0036174300194340044
+wanurejo | magelang,Desa Wisata Wanurejo,Kabupaten Magelang,1,1,0.5732048872957985,0.0598675328712874,0.03431636243216381
+lerep | semarang,Desa Wisata Lerep,Kabupaten Semarang,1,1,0.4280128037653392,0.013141688591095576,0.005624810980085787
+tebat lereh meringang | pagaralam,Desa Wisata TEBAT LEREH MERINGANG,Kota Pagar Alam,1,1,0.27178441307108264,0.014396222764119433,0.003912668954386759
+panyubarangan | dharmasraya,Desa Wisata Panyubarangan,Kabupaten Dharmasraya,1,1,0.2773015455018066,0.020622132692233574,0.005718549267099702
+kampung prai ijing tebara | sumbabarat,Desa Wisata Kampung Prai Ijing/ Tebara,Kabupaten Sumba Barat,1,0,0.2068115086904332,0.01563612841527232,0.0032337313076398204
+jatiluwih | tabanan,Desa Wisata Jatiluwih,Kabupaten Tabanan,1,1,0.3056971062881241,0.022770102702360556,0.006960754505995016
+kakilangit mangunan | bantul,Desa Wisata Kakilangit Mangunan,Kabupaten Bantul,1,1,0.3443223372189254,0.011959473040927789,0.004117913709358986
+daringan ngaglik | batu,Desa Wisata Daringan Ngaglik,Kota Batu,1,1,0.5424431196141725,0.054774758751417386,0.029712191013232542
+pangkahkulon | gresik,Desa Wisata Pangkahkulon,Kabupaten Gresik,1,1,0.5136928079748007,0.042654069409432484,0.02191108868648342
+sidamukti | majalengka,Desa Wisata Sidamukti,Kabupaten Majalengka,1,1,0.47604274942649694,0.03180612898590148,0.01514107709106234
+negeri hila | malukutengah,Desa Wisata Negeri Hila,Kabupaten Maluku Tengah,1,0,0.23797871786953087,0.029706601208639608,0.00706953886789351
+tanjung | sleman,Desa Wisata Tanjung,Kabupaten Sleman,1,0,0.2064261591329887,0.014396824214046823,0.0029718811262184944
+nyalembeng | pemalang,Desa Wisata Nyalembeng,Kabupaten Pemalang,1,1,0.5945344250135581,0.043920479552745036,0.026112237057211007
+pusar | ogankomeringulu,Desa Wisata Pusar,Kabupaten Ogan Komering Ulu,1,1,0.3565107464065013,0.05156547933730251,0.01838364752735074
+sangurejo | sleman,Desa Wisata Sangurejo,Kabupaten Sleman,1,1,0.28796922484785425,0.022870091805859805,0.006585882609532711
+perkampungan budaya betawi | jakartaselatan,Desa Wisata Perkampungan Budaya Betawi,Kota Jakarta Selatan,1,1,0.3862556384903406,0.041789613425973204,0.01614147381611379
+edukasi kajigelem bangunjiwo | bantul,Desa Wisata Edukasi Kajigelem Bangunjiwo,Kabupaten Bantul,1,1,0.5822498007381702,0.02883836379914137,0.016791131575664923
+pela | bangun,Desa Wisata Pela,Kota Bangun,1,0,0.1666601508703177,0.013573613516890145,0.0022621804765802955
+batu ampar | kepahiang,Desa Wisata Batu Ampar,Kabupaten Kepahiang,1,0,0.2315655428462089,0.022970310555095016,0.0053191324330365795
+dadaprejo | batu,Desa Wisata Dadaprejo,Kota Batu,1,0,0.23309249808564694,0.02140426610889759,0.004989173857012889
+kebonagung | bantul,Desa Wisata Kebonagung,Kabupaten Bantul,1,1,0.3444601439937438,0.011935593319985787,0.004111336193653071
+keciput | belitung,Desa Wisata Keciput,Kabupaten Belitung,1,1,0.30127074371463197,0.010802131220220633,0.003254366106418915
+pasirbaru | sukabumi,Desa Wisata Pasirbaru,Kabupaten Sukabumi,1,1,0.31588908122936266,0.03278245020548607,0.010355618075858325
+kampung tenun ikat bandar kidul kota kediri | kediri,Desa Wisata Kampung Tenun Ikat Bandar Kidul Kota Kediri,Kota Kediri,1,0,0.2151684357723468,0.025653013173594755,0.005519718717409789
+sungai cingam | bengkalis,Desa Wisata Sungai Cingam,Kabupaten Bengkalis,1,0,0.19339368265505427,0.018793166787095094,0.0036344797337069744
+taman loang baloq | mataram,Desa Wisata Desa Wisata Taman Loang Baloq,Kota Mataram,1,1,0.3681185510186755,0.035600803250526045,0.013105316107684601
+pulau belimbing | kampar,Desa Wisata Pulau Belimbing,Kabupaten Kampar,1,1,0.3043440940875314,0.016244269555556648,0.004943847501999554
+tegalrejo | baru,Desa Wisata Tegalrejo,Kabupaten Kota Baru,1,1,0.26479366329931664,0.016845310786358158,0.004460531552535269
+taro | gianyar,Desa Wisata Taro,Kabupaten Gianyar,1,1,0.4735986013544579,0.06409115012279602,0.03035347905735479
+kunjir | lampungselatan,Desa Wisata Kunjir,Kabupaten Lampung Selatan,1,1,0.3726947762573973,0.021181661770295627,0.007894294694240194
+sesaot | lombokbarat,Desa Wisata Sesaot,Kabupaten Lombok Barat,1,1,0.277738111372124,0.017866179080806583,0.004962118835339371
+pulau pahawang | pesawaran,Desa Wisata Pulau Pahawang,Kabupaten Pesawaran,1,1,0.2776335527661841,0.011498666913720165,0.003192415747331103
+temajuk | sambas,Desa Wisata Temajuk,Kabupaten Sambas,1,1,0.372632807077518,0.016528545049072894,0.006159078138543245
+karangsambung | kebumen,Desa Wisata Karangsambung,Kabupaten Kebumen,1,1,0.48143513829646656,0.06714973027942711,0.03232823968364642
+jalan roda | manado,Desa Wisata Jalan Roda,Kota Manado,1,1,0.28243921873397615,0.01823309330545091,0.0051497406282952456
+jelitik mempesona | bangka,Desa Wisata Jelitik Mempesona,Kabupaten Bangka,1,1,0.28586910967941964,0.016165690086207624,0.004621271432297594
+anjungan sungai malili | luwutimur,Desa Wisata Anjungan Sungai Malili,Kabupaten Luwu Timur,1,0,0.18181438686758108,0.022886915099581958,0.004161170436120877
+putridalem | majalengka,Desa Wisata Putridalem,Kabupaten Majalengka,1,1,0.31257597626557787,0.05223567596116496,0.016327617409453515
+hawai atue | luwutimur,Desa Wisata Hawai Atue,Kabupaten Luwu Timur,1,0,0.2130199771731437,0.01859016893093658,0.003960077361312995
+kwe puspa jagad | blitar,Desa Wisata Kwe Puspa Jagad,Kabupaten Blitar,1,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+lapasi | halmaherabarat,Desa Wisata Lapasi,Kabupaten Halmahera Barat,1,0,0.1691620282825096,0.019629863203642853,0.003320627474436427
+kampung arab banjarmasin | banjarmasin,Desa Wisata Kampung Arab Banjarmasin,Kota Banjarmasin,1,0,0.25708959137784454,0.022355328064432207,0.005747322157202537
+gunung maras | bangka,Desa Wisata Gunung Maras,Kabupaten Bangka,1,0,0.07872152936750809,0.05114047022674911,0.004025856028823204
+nagari koto ranah | dharmasraya,Desa Wisata Nagari Koto Ranah,Kabupaten Dharmasraya,1,1,0.33583973300298364,0.051404632197989276,0.017263717952489294
+srigethuk | gunungkidul,Desa Wisata Srigethuk,Kabupaten Gunungkidul,1,1,0.5104895877698981,0.07000801872141978,0.035738364617684884
+kalisuci | gunungkidul,Desa Wisata Kalisuci,Kabupaten Gunungkidul,1,1,0.3737807069318438,0.07215492977751,0.026970120660855232
+katongan | gunungkidul,Desa Wisata Katongan,Kabupaten Gunungkidul,1,1,0.48942069411525435,0.02843157826722272,0.013915002770336323
+air terjun moramo sumbersari | konaweselatan,Desa Wisata Air Terjun Moramo Sumbersari,Kabupaten Konawe Selatan,1,1,0.3396464455675756,0.03545105538594654,0.012040824953456
+gunungsari | madiun,Desa Wisata Gunungsari,Kabupaten Madiun,1,1,0.5812227646626843,0.015721568707005057,0.009137733628719821
+penggarit | pemalang,Desa Wisata Penggarit,Kabupaten Pemalang,1,0,0.17002956624468712,0.019650335336261485,0.0033411379937871885
+ekj sempu | sleman,Desa Wisata Ekj Sempu,Kabupaten Sleman,1,1,0.2961953038816689,0.04859849300709704,0.01439464540442827
+bira tengah | sampang,Desa Wisata Bira Tengah,Kabupaten Sampang,1,1,0.40322974218482927,0.018002146382568366,0.007259000844616599
+senden | trenggalek,Desa Wisata SENDEN,Kabupaten Trenggalek,1,1,0.3498035378667976,0.022402336579581943,0.007836416592020537
+mangrove pangkal babu | tanjungjabungbarat,Desa Wisata MANGROVE PANGKAL BABU,Kabupaten Tanjung Jabung Barat,1,1,0.40658262003214735,0.02722438858300418,0.011068963238851119
+belik waru | trenggalek,Desa Wisata Belik Waru,Kabupaten Trenggalek,1,1,0.3120617088483206,0.021925264967424085,0.006842035652686577
+wisata pantai kelapa | tuban,Desa Wisata Wisata Pantai Kelapa,Kabupaten Tuban,1,0,0.13256395079070982,0.0308364534064063,0.004087802091926861
+masaran | trenggalek,Desa Wisata Masaran,Kabupaten Trenggalek,1,1,0.3855194616421728,0.01678781462721384,0.006472029257232074
+bulukerto | batu,Desa Wisata  BULUKERTO,Kota Batu,1,1,0.48661049154447794,0.03392446342883828,0.01650799982448966
+pulau pangeran belibak | kepulauananambas,Desa Wisata PULAU PANGERAN BELIBAK,Kabupaten Kepulauan Anambas,1,1,0.2742424700004605,0.011596575368672432,0.0031802734726512284
+masjid tua tosora makam assheyck jamaluddin akbar husein keturunan rasullullah ke 20 | wajo,Desa Wisata Masjid Tua Tosora & Makam Assheyck Jamaluddin Akbar Husein ( Keturunan Rasullullah ke-20),Kabupaten Wajo,1,1,0.3113688095092309,0.03491309812712153,0.010870849800120791
+pulesari | sleman,Desa Wisata Pulesari,Sleman,2,2,0.6155545272765358,0.8827465173448218,0.5433786151892
+cibuntu | kuningan,Desa Wisata Cibuntu,Kuningan,2,2,0.6114485271577418,0.9342749305672163,0.5712610302557259
+gubugklakah300 besar | malang,Desa Wisata Gubugklakah300 Besar ADWI 2021,Malang,2,2,0.6820517263187541,0.9006910243206999,0.6143178680177404
+kampoeng sedjarah kelor | sleman,Desa Wisata Kampoeng Sedjarah Kelor,Sleman,2,2,0.3534444647997889,0.9205868457024167,0.32537632498101654
+sidomulyo300 besar | batu,Desa Wisata Sidomulyo300 Besar ADWI 2024,Batu,2,2,0.7046544628187538,0.8771545902042618,0.6180908965693882
+rejowinangun50 besar | yogyakarta,Desa Wisata Rejowinangun50 Besar ADWI 2021,Yogyakarta,2,2,0.6988474338914505,0.9588780895792176,0.6701094923171727
+plosokuning | sleman,Desa Wisata Plosokuning,Kabupaten Sleman,2,1,0.4554124581950872,0.056157842323609077,0.025574981019526915
